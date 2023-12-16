@@ -1,4 +1,4 @@
-# first time
+# first time 
 
 
-some description about the project i am working on.
+some description about the project I am working on.
